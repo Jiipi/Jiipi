@@ -6,7 +6,7 @@
 <!-- Dynamic Typing SVG -->
 <div align="center">
   <a href="https://github.com/Jiipi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there!+%F0%9F%91%8B+I'm+TR%E1%BA%A6N+NG%E1%BB%8CC+H%C6%AFNG;Full-Stack+Web+Developer;IT+Student+%40+Dalat+University;Building+with+Next.js+16+%26+Modern+Web" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there!+%F0%9F%91%8B+I'm+TR%E1%BA%A6N+NG%E1%BB%8CC+H%C6%AFNG;Full-Stack+Web+Developer;IT+Student+%40+Dalat+University;Passionate+about+building+modern+web+apps" alt="Typing SVG" />
   </a>
 
   <!-- Quick Badges & Visitor Counter -->
@@ -31,8 +31,8 @@
 ### 👨‍💻 About Me
 
 - 🎓 Sinh viên **CNTT** - **Trường Đại học Đà Lạt (DLU)**.
-- 🚀 Đam mê phát triển **Full-stack Web Applications** & **UI/UX Modern Design**.
-- 💡 Tập trung mạnh vào hệ sinh thái **Next.js 16 (App Router / Turbopack)**, **React 19**, **TypeScript** và **TailwindCSS**.
+- 🚀 Đam mê sáng tạo & phát triển các **ứng dụng Web hiện đại**, chú trọng trải nghiệm người dùng (**UI/UX**).
+- 💡 Luôn chủ động học hỏi công nghệ mới, tư duy giải quyết vấn đề và ứng dụng công nghệ nâng cao hiệu suất làm việc.
 - 🌐 Website Portfolio: [tranngochung.id.vn](https://tranngochung.id.vn)
 - 🌐 Repo Portfolio: [website_portfolio](https://github.com/Jiipi/website_portfolio)
 - 📫 Email liên hệ: `ngochungtran.aity@gmail.com`

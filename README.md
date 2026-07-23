@@ -21,7 +21,7 @@
 - 🎓 Sinh viên **CNTT** - **Trường Đại học Đà Lạt (DLU)**.
 - 🚀 Đam mê phát triển **Full-stack Web Applications** & **UI/UX Modern Design**.
 - 💡 Tập trung mạnh vào hệ sinh thái **Next.js 16 (App Router / Turbopack)**, **React 19**, **TypeScript** và **TailwindCSS**.
-- 🌐 Website Portfolio: [website_portfolio](https://github.com/Jiipi/website_portfolio)
+- 🌐 Website Portfolio: https://github.com/Jiipi/website_portfolio
 - 📫 Email liên hệ: `ngochungtran.aity@gmail.com` *(hoặc email cá nhân của bạn)*
 
 ---

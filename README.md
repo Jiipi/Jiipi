@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Header Banner Dynamic Typing -->
+  <!-- Header Banner Dynamic Typing (Đã sửa lỗi khoảng trắng) -->
   <a href="https://github.com/Jiipi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there!+%F0%9F%91%8B+I'm+TRAN NGOC HUNG;Full-Stack+Web+Developer;IT+Student+%40+Dalat+University;Building+with+Next.js+16+%26+Modern+Web" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+there!+%F0%9F%91%8B+I'm+TR%E1%BA%A6N+NG%E1%BB%8CC+H%C6%AFNG;Full-Stack+Web+Developer;IT+Student+%40+Dalat+University;Building+with+Next.js+16+%26+Modern+Web" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -21,7 +21,8 @@
 - 🎓 Sinh viên **CNTT** - **Trường Đại học Đà Lạt (DLU)**.
 - 🚀 Đam mê phát triển **Full-stack Web Applications** & **UI/UX Modern Design**.
 - 💡 Tập trung mạnh vào hệ sinh thái **Next.js 16 (App Router / Turbopack)**, **React 19**, **TypeScript** và **TailwindCSS**.
-- 🌐 Website Portfolio: https://github.com/Jiipi/website_portfolio
+- 🌐 Website Portfolio: [tranngochung.id.vn](https://tranngochung.id.vn)
+- 🌐 Repo Portfolio: [website_portfolio](https://github.com/Jiipi/website_portfolio)
 - 📫 Email liên hệ: `ngochungtran.aity@gmail.com`
 
 ---
@@ -49,22 +50,23 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jiipi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Jiipi GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiipi&layout=compact&theme=tokyonight&hide=html" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jiipi&show_icons=true&theme=tokyonight&locale=en" alt="Jiipi GitHub Stats" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiipi&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiipi&theme=tokyonight" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiipi&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
 ### 🤝 Connect with Me
 
-<div align="center">
+<p align="center">
   <a href="mailto:ngochungtran.aity@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -74,7 +76,7 @@
   <a href="https://www.facebook.com/JiiPii.13">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-</div>
+</p>
 
 <br/>
 

@@ -22,7 +22,7 @@
 - 🚀 Đam mê phát triển **Full-stack Web Applications** & **UI/UX Modern Design**.
 - 💡 Tập trung mạnh vào hệ sinh thái **Next.js 16 (App Router / Turbopack)**, **React 19**, **TypeScript** và **TailwindCSS**.
 - 🌐 Website Portfolio: [website_portfolio](https://github.com/Jiipi/website_portfolio)
-- 📫 Email liên hệ: `quanghocdl@gmail.com` *(hoặc email cá nhân của bạn)*
+- 📫 Email liên hệ: `ngochungtran.aity@gmail.com` *(hoặc email cá nhân của bạn)*
 
 ---
 
@@ -40,10 +40,10 @@
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :---: |
-| 🎨 [**website_portfolio**](https://github.com/Jiipi/website_portfolio) | Website Portfolio & Personal Blog cá nhân hiện đại | `Next.js 16` `React 19` `TailwindCSS` `TypeScript` | 🚀 Active |
-| 🎓 [**dlu-ren-luyen**](https://github.com/Jiipi/dlu-ren-luyen) | Hệ thống quản lý & đánh giá điểm rèn luyện sinh viên DLU | `React` `Node.js` `Express` `Database` | 🛠 Completed |
+| 🎨 [**website_portfolio**](https://tranngochung.id.vn) | Website Portfolio & Personal Blog cá nhân hiện đại | `Next.js 16` `React 19` `TailwindCSS` `TypeScript` | 🚀 Active |
+| 🎓 [**dlu-ren-luyen**](https://www.hoatdongrenluyen.io.vn/) | Hệ thống quản lý & đánh giá điểm rèn luyện sinh viên DLU | `React` `Node.js` `Express` `Database` | 🛠 Completed |
 | 🌲 [**dalat-services**](https://github.com/Jiipi/dalat-services) | Nền tảng tổng hợp & tra cứu dịch vụ du lịch địa phương Đà Lạt | `Next.js` `API` `Tailwind` | 💡 Live |
-| ⚔️ [**genshin-draft-tool**](https://github.com/Jiipi/genshin-draft-tool) | Công cụ hỗ trợ ban/pick & giải đấu Genshin Impact | `React` `JavaScript` `CSS` | 🎮 Active |
+| ⚔️ [**genshin-draft-tool**](https://banpick.tranngochung.id.vn) | Công cụ hỗ trợ ban/pick & giải đấu Genshin Impact | `React` `JavaScript` `CSS` | 🎮 Active |
 
 ---
 
@@ -65,13 +65,13 @@
 ### 🤝 Connect with Me
 
 <div align="center">
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:ngochungtran.aity@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/Jiipi">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://facebook.com">
+  <a href="https://www.facebook.com/JiiPii.13">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </div>

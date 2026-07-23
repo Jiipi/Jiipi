@@ -50,24 +50,19 @@
 
 ### 📊 GitHub Analytics
 
-<!-- 1. Biểu đồ đóng góp mã nguồn (Đã hiện đẹp) -->
+<!-- 1. Biểu đồ đóng góp mã nguồn (Activity Graph) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jiipi&theme=tokyo-night&area=true&hide_border=true" alt="Jiipi Activity Graph" />
 </p>
 
-<!-- 2. Thẻ Thống kê tổng quan (Thay thế cho thẻ bị lỗi đỏ ở giữa) -->
+<!-- 2. Biểu đồ Tỷ lệ Ngôn ngữ (Top Languages) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jiipi&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jiipi&theme=tokyonight&v=2" alt="Repos Per Language" />
 </p>
 
-<!-- 3. Biểu đồ Tỷ lệ Ngôn ngữ (Đã hiện đẹp) -->
+<!-- 3. Chuỗi ngày Code liên tục (Streak Stats) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jiipi&theme=tokyonight" alt="Repos Per Language" />
-</p>
-
-<!-- 4. Chuỗi ngày Code (Streak Stats) -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiipi&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiipi&theme=tokyonight&v=2" alt="GitHub Streak" />
 </p>
 
 ---

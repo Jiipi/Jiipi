@@ -49,12 +49,22 @@
 ---
 
 ### 📊 GitHub Analytics
+
+<!-- Biểu đồ Activity Graph hiện đại & không bị rate limit -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jiipi&theme=tokyo-night&area=true&hide_border=true" alt="Jiipi Activity Graph" />
+</p>
+
+<!-- Thống kê chi tiết Repo & Ngôn ngữ -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jiipi&theme=tokyonight" alt="Profile Details" />
 </p>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jiipi&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jiipi&theme=tokyonight" alt="Repos Per Language" />
 </p>
+
+<!-- Chuỗi ngày Code (Streak) -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiipi&theme=tokyonight" alt="GitHub Streak" />
 </p>

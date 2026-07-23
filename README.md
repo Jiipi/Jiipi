@@ -50,21 +50,22 @@
 
 ### 📊 GitHub Analytics
 
-<!-- Biểu đồ Activity Graph hiện đại & không bị rate limit -->
+<!-- 1. Biểu đồ đóng góp mã nguồn (Đã hiện đẹp) -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jiipi&theme=tokyo-night&area=true&hide_border=true" alt="Jiipi Activity Graph" />
 </p>
 
-<!-- Thống kê chi tiết Repo & Ngôn ngữ -->
+<!-- 2. Thẻ Thống kê tổng quan (Thay thế cho thẻ bị lỗi đỏ ở giữa) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jiipi&theme=tokyonight" alt="Profile Details" />
 </p>
 
+<!-- 3. Biểu đồ Tỷ lệ Ngôn ngữ (Đã hiện đẹp) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jiipi&theme=tokyonight" alt="Repos Per Language" />
 </p>
 
-<!-- Chuỗi ngày Code (Streak) -->
+<!-- 4. Chuỗi ngày Code (Streak Stats) -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jiipi&theme=tokyonight" alt="GitHub Streak" />
 </p>
